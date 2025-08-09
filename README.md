@@ -15,6 +15,9 @@ in the org:
 - [delta](https://github.com/dandavison/delta) since `23.06`.
   - Download the config [here](https://github.com/dandavison/delta/blob/master/themes.gitconfig).
   - See [https://dandavison.github.io/delta/custom-themes.html](https://dandavison.github.io/delta/custom-themes.html) for setup instructions.
+- [Prism Launcher](https://prismlauncher.org)
+  - Download the config [here](https://github.com/PrismLauncher/Themes/releases/latest/download/Mellow-theme.zip)
+  - See [https://prismlauncher.org/wiki/getting-started/change-themes/#installing-themes](https://prismlauncher.org/wiki/getting-started/change-themes/#installing-themes) for setup instructions.
 
 
 ## Contributing
@@ -22,3 +25,6 @@ in the org:
 If you would like to port mellow to another application you may open an issue
 in this repo. An example of a good issue may be found
 [here](https://github.com/mellow-theme/.github/issues/1).
+
+If there's an existing port included with the application and you would like to
+add it to the list above, just open a pull request.
