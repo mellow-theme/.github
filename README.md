@@ -7,6 +7,16 @@ A soothing dark color scheme for all sorts of applications.
 ![Normal colors](https://user-images.githubusercontent.com/1040966/197760225-9a3e3ff0-7ee0-426f-9646-c4b5e3dc0acc.png)
 ![Bright colors](https://user-images.githubusercontent.com/1040966/197760222-f2f43028-b3b8-4480-be79-5ec95a330db7.png)
 
+## Ports
+Ports are repositories which contain theming for an application. Most ports are
+maintained in our github org. The following are the ports that we do not have
+in the org:
+- [helix](https://helix-editor.com/) since `22.12`.
+- [delta](https://github.com/dandavison/delta) since `23.06`.
+  - Download the config [here](https://github.com/dandavison/delta/blob/master/themes.gitconfig).
+  - See [https://dandavison.github.io/delta/custom-themes.html](https://dandavison.github.io/delta/custom-themes.html) for setup instructions.
+
+
 ## Contributing
 ### Porting
 If you would like to port mellow to another application you may open an issue
