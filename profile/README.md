@@ -18,6 +18,8 @@ in the org:
 - [Prism Launcher](https://prismlauncher.org)
   - Download the config [here](https://github.com/PrismLauncher/Themes/releases/latest/download/Mellow-theme.zip)
   - See [https://prismlauncher.org/wiki/getting-started/change-themes/#installing-themes](https://prismlauncher.org/wiki/getting-started/change-themes/#installing-themes) for setup instructions.
+- [opencode](https://opencode.ai/) since `v0.15.9`.
+  - See [https://opencode.ai/docs/themes/#using-a-theme](https://opencode.ai/docs/themes/#using-a-theme) for setup instructions.
 
 
 ## Contributing
